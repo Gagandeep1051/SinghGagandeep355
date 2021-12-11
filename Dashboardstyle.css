@@ -5,6 +5,16 @@ html, body{
 
 header{
     background: #2F3061;
+    color: #F7FFF7;
+    text-align: center;
+    font-style: italic;
+    margin: 0;
+}
+header ~ p{
+    font-style: italic;
+    margin: 0;
+    font-size: 50px;
+
 }
 h1 {
     text-align: center;
@@ -16,12 +26,16 @@ h4{
     text-align: center;
     color: #F0F0F0;
 }
+
+section{
+  margin: 10px;
+}
 #box1{
     float: left;
     width: 170px;
     background-color: lightsteelblue;
     padding: 20px;
-    margin: 0px 10px 0px 0px;
+    margin: 10px 10px 0px 0px;
     text-align: center;
 
 }
@@ -30,7 +44,7 @@ h4{
     width: 170px;
     background-color: lightsteelblue;
     padding: 20px;
-    margin: 0px 10px 0px 0px;
+    margin: 10px 10px 0px 0px;
     text-align: center;
 
 }
@@ -40,16 +54,7 @@ h4{
     width: 170px;
     background-color: lightsteelblue;
     padding: 20px;
-    margin: 0px 10px 0px 0px;
-    text-align: center;
-
-}
-#box4{
-    float: left;
-    width: 170px;
-    background-color: lightsteelblue;
-    padding: 20px;
-    margin: 0px 10px 0px 0px;
+    margin: 10px 10px 0px 0px;
     text-align: center;
 
 }
@@ -58,7 +63,7 @@ h4{
     width: 170px;
     background-color: lightsteelblue;
     padding: 20px;
-    margin: 0px 10px 0px 0px;
+    margin: 10px 10px 0px 0px;
     text-align: center;
 
 }
@@ -68,7 +73,7 @@ h4{
     margin-top:50px;
     background-color: lightsteelblue;
     padding: 20px;
-    margin: 0px 10px 0px 0px;
+    margin: 10px 10px 0px 0px;
     text-align: center;
 
 }
@@ -78,7 +83,7 @@ h4{
     margin-top:50px;
     background-color: lightsteelblue;
     padding: 20px;
-    margin: 0px 10px 0px 0px;
+    margin: 10px 10px 0px 0px;
     text-align: center;
 
 }
@@ -88,7 +93,7 @@ h4{
     margin-top:50px;
     background-color: lightsteelblue;
     padding: 20px;
-    margin: 0px 10px 0px 0px;
+    margin: 10px 10px 0px 0px;
     text-align: center;
 
 }
@@ -98,7 +103,48 @@ h4{
     margin-top:50px;
     background-color: lightsteelblue;
     padding: 20px;
-    margin: 0px 10px 0px 0px;
+    margin: 10px 10px 0px 0px;
+    text-align: center;
+
+}
+#box10{
+    float: left;
+    width: 170px;
+    margin-top:50px;
+    background-color: lightsteelblue;
+    padding: 20px;
+    margin: 10px 10px 0px 0px;
+    text-align: center;
+
+}
+#box11{
+    float: left;
+    width: 170px;
+    margin-top:50px;
+    background-color: lightsteelblue;
+    padding: 20px;
+    margin: 10px 10px 0px 0px;
+    text-align: center;
+
+}
+#box12{
+    float: left;
+    width: 170px;
+    margin-top:50px;
+    background-color: lightsteelblue;
+    padding: 20px;
+    margin: 10px 10px 0px 0px;
+    text-align: center;
+
+}
+
+#box13{
+    float: left;
+    width: 170px;
+    margin-top:50px;
+    background-color: lightsteelblue;
+    padding: 20px;
+    margin: 10px 10px 0px 0px;
     text-align: center;
 
 }
