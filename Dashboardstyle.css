@@ -148,3 +148,35 @@ section{
     text-align: center;
 
 }
+#box14{
+    float: left;
+    width: 170px;
+    margin-top:50px;
+    background-color: lightsteelblue;
+    padding: 20px;
+    margin: 10px 10px 0px 0px;
+    text-align: center;
+
+}
+
+#box15{
+    float: left;
+    width: 170px;
+    margin-top:50px;
+    background-color: lightsteelblue;
+    padding: 20px;
+    margin: 10px 10px 0px 0px;
+    text-align: center;
+
+}
+
+#box16{
+    float: left;
+    width: 170px;
+    margin-top:50px;
+    background-color: lightsteelblue;
+    padding: 20px;
+    margin: 10px 10px 0px 0px;
+    text-align: center;
+
+}
